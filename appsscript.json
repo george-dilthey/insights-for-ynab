@@ -1,0 +1,28 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+        "version": "26"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "YNAB Connector",
+    "logoUrl": "https://pbs.twimg.com/profile_images/806621598195159040/ATxBPogp_400x400.jpg",
+    "company": "George Dilthey",
+    "companyUrl": "https://www.georgedilthey.com",
+    "addonUrl": "www.google.com",
+    "supportUrl": "www.google.com",
+    "description": "This connector allows you to query your YNAB data.",
+    "shortDescription": "Query your YNAB data.",
+    "authType" : ["OAUTH2"],
+    "feeType" : ["FREE"],
+    "privacyPolicyUrl" : "",
+    "termsOfServiceUrl" : ""
+  }
+}
