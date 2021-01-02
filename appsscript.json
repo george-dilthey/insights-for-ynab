@@ -11,6 +11,8 @@
   },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8",
+  "urlFetchWhitelist" : ["https://api.youneedabudget.com/"],
+
   "dataStudio": {
     "name": "YNAB Connector",
     "logoUrl": "https://pbs.twimg.com/profile_images/806621598195159040/ATxBPogp_400x400.jpg",
