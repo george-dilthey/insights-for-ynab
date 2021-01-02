@@ -22,7 +22,7 @@
     "shortDescription": "Query your YNAB data.",
     "authType" : ["OAUTH2"],
     "feeType" : ["FREE"],
-    "privacyPolicyUrl" : "",
+    "privacyPolicyUrl" : "https://sites.google.com/view/gdsynabprivacypolicy/home",
     "termsOfServiceUrl" : ""
   }
 }
