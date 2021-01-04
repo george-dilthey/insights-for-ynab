@@ -11,10 +11,11 @@
   },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8",
-  "urlFetchWhitelist" : ["https://api.youneedabudget.com/"],
-
+  "urlFetchWhitelist": [
+    "https://api.youneedabudget.com/"
+  ],
   "dataStudio": {
-    "name": "YNAB Connector",
+    "name": "Insights for YNAB",
     "logoUrl": "https://pbs.twimg.com/profile_images/806621598195159040/ATxBPogp_400x400.jpg",
     "company": "George Dilthey",
     "companyUrl": "https://www.georgedilthey.com",
@@ -22,9 +23,13 @@
     "supportUrl": "www.google.com",
     "description": "This connector allows you to query your YNAB data.",
     "shortDescription": "Query your YNAB data.",
-    "authType" : ["OAUTH2"],
-    "feeType" : ["FREE"],
-    "privacyPolicyUrl" : "https://sites.google.com/view/gdsynabprivacypolicy/home",
-    "termsOfServiceUrl" : "https://sites.google.com/view/gdsynabtos/"
+    "authType": [
+      "OAUTH2"
+    ],
+    "feeType": [
+      "FREE"
+    ],
+    "privacyPolicyUrl": "https://sites.google.com/view/gdsynabprivacypolicy/home",
+    "termsOfServiceUrl": "https://sites.google.com/view/gdsynabtos/"
   }
 }
