@@ -2,7 +2,7 @@
 Google Data Studio connector for YNAB.
 
 Getting Started:
-1. Go to datastudio.google.com to create a new dashboard. When you create a blank dashboard, Google Data Studio (GDS) will prompt you to add a data source. Search for and select the YNAB connector.
+1. Go to datastudio.google.com to create a new dashboard. When you create a blank dashboard, Google Data Studio (GDS) will prompt you to add a data source. Search for and select the Insights for YNAB connector.
 
 2. In the connector setup screen, you'll need to authorize YNAB. Click "Authorize" and follow the path to login in with your YNAB credentials.
 
@@ -17,3 +17,5 @@ Video walkthrough: https://drive.google.com/file/d/1oBgozfhmaWyGkUxCD06iqhuUFkb-
 Example Report: https://datastudio.google.com/reporting/cd848369-8833-4ccd-b64b-f22342b660f5
 
 Privacy Policy: https://sites.google.com/view/gdsynabprivacypolicy/home
+
+Terms of Service: https://sites.google.com/view/gdsynabtos/
