@@ -1,6 +1,9 @@
 # ynab-gds-connector
 Google Data Studio connector for YNAB.
 
+## NOTE:
+This connector is still in beta and is not yet published to the GDS connector gallery. You may use the source code to build it by creating your own connector. Feel free to reach out if you have questions!
+
 Getting Started:
 1. Go to datastudio.google.com to create a new dashboard. When you create a blank dashboard, Google Data Studio (GDS) will prompt you to add a data source. Search for and select the Insights for YNAB connector.
 
